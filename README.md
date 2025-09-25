@@ -166,7 +166,3 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 - Images produits fournies par Unsplash
 - Communauté Flutter pour l'inspiration
 - Équipe de développement pour les contributions
-
----
-
-⭐ **N'oubliez pas de donner une étoile au projet si vous l'aimez !** ⭐
